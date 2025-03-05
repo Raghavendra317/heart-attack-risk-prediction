@@ -6,7 +6,7 @@
 Heart disease is one of the leading causes of mortality worldwide, primarily due to late detection and delayed medical intervention. This project aims to develop a **machine learning-based prediction model** to assess heart attack risk using patient health records. The goal is to **enable early medical intervention** and **personalized treatment plans**.
 
 ## 📊 Dataset Information
-- **Source**: Kaggle - [Personal Key Indicators of Heart Disease](https://www.kaggle.com/datasets/kamilpytlak/personal-key-indicators-of-heart-disease)  
+- **Source**: Kaggle 
 - **Records**: 445,132  
 - **Features**: 40 (6 numerical, 34 categorical)  
 - **Target Variable**: `HadHeartAttack`  
