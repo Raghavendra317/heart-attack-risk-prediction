@@ -78,14 +78,5 @@ Heart disease is one of the leading causes of mortality worldwide, primarily due
 - Deploying the model as a **web application** for real-time predictions.  
 - Exploring **deep learning models** for further performance improvement.  
 
-## 🙌 Team Members & Contributions
-- **Mentor**: Mr. Ankush Bansal  
-- **Team**:
-  - Raghavendra S  
-  - Baljit Singh Karnavat  
-  - Nikhil Vinod   
-  - Shashwat Girish Irny  
-  - Vergin J  
-
----
+----
 
